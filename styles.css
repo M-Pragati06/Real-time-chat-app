@@ -126,6 +126,7 @@ body {
 .chat-area {
   display: flex;
   flex-direction: column;
+  overflow-y:scroll;
   background-color: var(--card-color);
 }
 
